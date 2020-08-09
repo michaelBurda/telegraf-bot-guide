@@ -1,0 +1,10 @@
+{
+  "name": "telegraf-bot-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mykhailo Burda <burda.mykhaylo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
